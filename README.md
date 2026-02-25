@@ -104,26 +104,21 @@ Current mood       : "why does this integral not converge" 😅
 
 ## `$ git log --oneline --graph`
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guille679&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guille679&layout=compact&langs_count=7&theme=github_dark&hide_border=true"/>
-
-</div>
-
+<!-- Streak — se ve bien incluso desde el día 1, muestra "0 day streak" pero carga correctamente -->
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Guille679&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 </div>
 
----
-
-## `$ trophy --display`
-
+<!-- Wakatime-style skill bars — estáticos, siempre se ven bien -->
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Guille679&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+![JavaScript](https://img.shields.io/badge/JavaScript-▓▓▓▓▓▓▓▓░░-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-▓▓▓▓▓▓░░░░-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![React](https://img.shields.io/badge/React-▓▓▓▓▓░░░░░-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-▓▓▓▓░░░░░░-43853D?style=flat-square&logo=node.js&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-▓▓▓▓▓▓▓░░░-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 </div>
 
