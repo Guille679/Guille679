@@ -62,7 +62,7 @@ roadmap = {
 
 ---
 
-## 💻 Full Stack Dev
+## 💻 Full Stack Dev (En proceso)
 
 ```bash
 stack/
