@@ -22,7 +22,7 @@
   ├── location   : Buenos Aires, Argentina 🇦🇷
   ├── studying   : Python para automatización de redes
   │                Redes con Cisco (CCNA path)
-  │                Álgebra Lineal & Cálculo
+  │                Álgebra & Cálculo
   ├── status     : "Learning every day, building every night."
   └── approach   : entender primero, copiar nunca.
 ```
@@ -34,23 +34,31 @@
 Lo que más me apasiona actualmente — automatizar redes, trabajar con dispositivos Cisco y entender la infraestructura que hace funcionar todo lo demás.
 
 ```python
-# Mi stack de automatización
-tools = {
-    "language"  : "Python 🐍",
-    "libraries" : ["Netmiko", "Paramiko", "NAPALM", "Nornir"],
-    "vendors"   : ["Cisco IOS", "Cisco IOS-XE"],
-    "protocols" : ["SSH", "Telnet", "SNMP", "REST APIs"],
-    "topics"    : ["CCNA", "VLANs", "Routing", "Switching",
-                   "ACLs", "OSPF", "STP"]
+roadmap = {
+    "language"   : "Python 🐍",
+    "automation" : ["Netmiko", "Paramiko", "NAPALM", "Nornir", "Ansible"],
+    "vendors"    : ["Cisco IOS", "Cisco IOS-XE", "Cisco NX-OS"],
+    "protocols"  : ["SSH", "Telnet", "SNMP", "RESTCONF", "NETCONF"],
+    "topics"     : ["CCNA", "VLANs", "Routing", "Switching",
+                    "ACLs", "OSPF", "BGP", "STP", "SDN", "NFV"],
+    "monitoring" : ["Prometheus", "Grafana", "Zabbix"],
+    "cloud_net"  : ["AWS VPC", "Azure Networking"]
 }
 ```
 
-**Automation & Networking Stack**
+<div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco_IOS-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+</div>
 
 ---
 
@@ -58,22 +66,62 @@ tools = {
 
 ```bash
 stack/
-├── frontend/   → React, TailwindCSS, JavaScript, TypeScript, HTML5, CSS3
-├── backend/    → Node.js, Express.js, Java
-└── databases/  → MongoDB, MySQL
+├── frontend/   → React, Next.js, Vue, Angular, TailwindCSS,
+│                 JavaScript, TypeScript, HTML5, CSS3
+├── backend/    → Node.js, Express.js, Java, Spring Boot,
+│                 Python (FastAPI / Django), GraphQL, REST APIs
+├── databases/  → MongoDB, MySQL, PostgreSQL, Redis
+└── devops/     → Docker, Kubernetes, CI/CD, GitHub Actions, Nginx
 ```
+
+**Frontend**
 
 <div align="center">
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+</div>
+
+**Backend**
+
+<div align="center">
+
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+</div>
+
+**Databases**
+
+<div align="center">
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+</div>
+
+**DevOps & Cloud**
+
+<div align="center">
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 </div>
 
@@ -81,7 +129,7 @@ stack/
 
 ## 🧮 Math
 
-Estudio **Álgebra Lineal** y **Cálculo** por las mismas razones que programo: me gusta entender cómo funcionan las cosas desde adentro. La lógica detrás de un algoritmo y la de una demostración matemática no son tan distintas.
+Estudio **Álgebra** y **Cálculo** por las mismas razones que programo: me gusta entender cómo funcionan las cosas desde adentro. La lógica detrás de un algoritmo y la de una demostración matemática no son tan distintas.
 
 ```
 e^(iπ) + 1 = 0   →   la ecuación más hermosa que existe.
@@ -91,10 +139,15 @@ e^(iπ) + 1 = 0   →   la ecuación más hermosa que existe.
 
 ## 🛠️ Tools
 
+<div align="center">
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Packet Tracer](https://img.shields.io/badge/Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</div>
 
 ---
 
