@@ -178,9 +178,7 @@ e^(iπ) + 1 = 0   →   la ecuación más hermosa que existe.
 ---
 
 <div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=Guille679&color=58a6ff&style=flat-square&label=Visitors)
-
+  
 *"An infrastructure that runs itself is the goal. Getting there is the journey."*
 
 </div>
