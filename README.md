@@ -66,7 +66,7 @@ roadmap = {
 
 ```bash
 stack/
-├── frontend/   → React, Next.js, Vue, Angular, TailwindCSS,
+├── frontend/   → React, Next.js, TailwindCSS,
 │                 JavaScript, TypeScript, HTML5, CSS3
 ├── backend/    → Node.js, Express.js, Java, Spring Boot,
 │                 Python (FastAPI / Django), GraphQL, REST APIs
