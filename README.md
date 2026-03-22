@@ -1,13 +1,14 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Guillermo+%7C+Network+%26+Dev+Enthusiast;Network+Automation+with+Python+%F0%9F%90%8D;Cisco+Networking+%7C+CCNA+path;Full+Stack+Dev+in+progress;Buenos+Aires%2C+Argentina+%F0%9F%87%A6%F0%9F%87%B7)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Guillermo+%7C+Network+%26+Dev+Enthusiast;Network+Automation+with+Python+%F0%9F%90%8D;Cisco+Networking+%7C+CCNA+path;Full+Stack+Dev+in+progress;CS+%40+UBA+%7C+Buenos+Aires+%F0%9F%87%A6%F0%9F%87%B7)](https://git.io/typing-svg)
 
 <br/>
 
 ![Network Automation](https://img.shields.io/badge/Network_Automation-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco-Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![Full Stack](https://img.shields.io/badge/Full_Stack-MERN%20%2B%20Java-orange?style=for-the-badge&logo=stackshare&logoColor=white)
-![Math](https://img.shields.io/badge/Math-Lover-9B59B6?style=for-the-badge&logo=wolfram&logoColor=white)
+![Data](https://img.shields.io/badge/Data-Science_path-2ECC71?style=for-the-badge&logo=python&logoColor=white)
+![CS](https://img.shields.io/badge/CS-@_UBA-8E44AD?style=for-the-badge&logo=academia&logoColor=white)
 
 </div>
 
@@ -19,9 +20,10 @@
 > Guillermo
   ├── focus      : Network Automation & Cisco Networking
   ├── also       : Full Stack Dev (MERN + Java)
+  ├── university : Ciencias de la Computación @ UBA (CBC)
   ├── location   : Buenos Aires, Argentina 🇦🇷
-  ├── studying   : Python para automatización de redes
-  │                Redes con Cisco (CCNA path)
+  ├── studying   : Python · Redes Cisco (CCNA path)
+  │                Pensamiento Computacional (Data Science path)
   │                Álgebra & Cálculo
   ├── status     : "Learning every day, building every night."
   └── approach   : entender primero, copiar nunca.
@@ -40,9 +42,9 @@ roadmap = {
     "vendors"    : ["Cisco IOS", "Cisco IOS-XE", "Cisco NX-OS"],
     "protocols"  : ["SSH", "Telnet", "SNMP", "RESTCONF", "NETCONF"],
     "topics"     : ["CCNA", "VLANs", "Routing", "Switching",
-                    "ACLs", "OSPF", "BGP", "STP", "SDN", "NFV"],
+                    "ACLs", "OSPF", "STP"],
     "monitoring" : ["Prometheus", "Grafana", "Zabbix"],
-    "cloud_net"  : ["AWS VPC", "Azure Networking"]
+    "cloud_net"  : ["AWS VPC"]
 }
 ```
 
@@ -56,22 +58,21 @@ roadmap = {
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
 ---
 
-## 💻 Full Stack Dev (En proceso)
+## 💻 Full Stack Dev
 
 ```bash
 stack/
 ├── frontend/   → React, Next.js, TailwindCSS,
 │                 JavaScript, TypeScript, HTML5, CSS3
 ├── backend/    → Node.js, Express.js, Java, Spring Boot,
-│                 Python (FastAPI / Django), GraphQL, REST APIs
+│                 GraphQL, REST APIs
 ├── databases/  → MongoDB, MySQL, PostgreSQL, Redis
-└── devops/     → Docker, Kubernetes, CI/CD, GitHub Actions, Nginx
+└── devops/     → Docker, GitHub Actions, Nginx
 ```
 
 **Frontend**
@@ -96,8 +97,6 @@ stack/
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 </div>
@@ -113,12 +112,11 @@ stack/
 
 </div>
 
-**DevOps & Cloud**
+**DevOps**
 
 <div align="center">
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -127,12 +125,39 @@ stack/
 
 ---
 
-## 🧮 Math
+## 📊 Data Science path
 
-Estudio **Álgebra** y **Cálculo** por las mismas razones que programo: me gusta entender cómo funcionan las cosas desde adentro. La lógica detrás de un algoritmo y la de una demostración matemática no son tan distintas.
+A través de la materia **Pensamiento Computacional** en la UBA, estoy dando mis primeros pasos hacia el análisis de datos — usando Python como puente entre la lógica de programación y el mundo de los datos.
 
+```python
+data_tools = {
+    "language" : "Python 🐍",
+    "libraries": ["Pandas", "NumPy", "Matplotlib"],
+    "path"     : "Data Science / Data Analyst",
+    "status"   : "early stages — building foundations"
+}
 ```
-e^(iπ) + 1 = 0   →   la ecuación más hermosa que existe.
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+
+</div>
+
+---
+
+## 🎓 Computer Science @ UBA
+
+Estudio Ciencias de la Computación en la **Universidad de Buenos Aires** — no porque sea el camino más corto, sino porque quiero entender las cosas desde los fundamentos. Algoritmos, estructuras de datos, matemática discreta, Álgebra, Cálculo. La base que hace que todo lo demás tenga sentido.
+
+```bash
+> por qué CS?
+  ├── porque quiero entender, no solo usar.
+  ├── porque un buen ingeniero sabe lo que pasa debajo del código.
+  └── porque e^(iπ) + 1 = 0  →  y eso no puede ser casualidad.
 ```
 
 ---
@@ -178,7 +203,7 @@ e^(iπ) + 1 = 0   →   la ecuación más hermosa que existe.
 ---
 
 <div align="center">
-  
+
 *"An infrastructure that runs itself is the goal. Getting there is the journey."*
 
 </div>
