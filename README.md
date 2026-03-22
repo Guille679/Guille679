@@ -8,7 +8,7 @@
 ![Cisco](https://img.shields.io/badge/Cisco-Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![Full Stack](https://img.shields.io/badge/Full_Stack-MERN%20%2B%20Java-orange?style=for-the-badge&logo=stackshare&logoColor=white)
 ![Data](https://img.shields.io/badge/Data-Science_path-2ECC71?style=for-the-badge&logo=python&logoColor=white)
-![CS](https://img.shields.io/badge/CS-@_UBA-8E44AD?style=for-the-badge&logo=academia&logoColor=white)
+![CS](https://img.shields.io/badge/CS-8E44AD?style=for-the-badge&logo=academia&logoColor=white)
 
 </div>
 
