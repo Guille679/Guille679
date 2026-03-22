@@ -20,7 +20,7 @@
 > Guillermo
   ├── focus      : Network Automation & Cisco Networking
   ├── also       : Full Stack Dev (MERN + Java)
-  ├── university : Ciencias de la Computación @ UBA (CBC)
+  ├── university : Ciencias de la Computación
   ├── location   : Buenos Aires, Argentina 🇦🇷
   ├── studying   : Python · Redes Cisco (CCNA path)
   │                Pensamiento Computacional (Data Science path)
@@ -149,7 +149,7 @@ data_tools = {
 
 ---
 
-## 🎓 Computer Science @ UBA
+## 🎓 Computer Science
 
 Estudio Ciencias de la Computación en la **Universidad de Buenos Aires** — no porque sea el camino más corto, sino porque quiero entender las cosas desde los fundamentos. Algoritmos, estructuras de datos, matemática discreta, Álgebra, Cálculo. La base que hace que todo lo demás tenga sentido.
 
