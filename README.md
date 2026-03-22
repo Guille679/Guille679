@@ -8,7 +8,7 @@
 ![Cisco](https://img.shields.io/badge/Cisco-Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![Full Stack](https://img.shields.io/badge/Full_Stack-MERN%20%2B%20Java-orange?style=for-the-badge&logo=stackshare&logoColor=white)
 ![Data](https://img.shields.io/badge/Data-Science_path-2ECC71?style=for-the-badge&logo=python&logoColor=white)
-![CS](https://img.shields.io/badge/CS-8E44AD?style=for-the-badge&logo=academia&logoColor=white)
+![CS](https://img.shields.io/badge/CS-|_UBA-8E44AD?style=for-the-badge&logo=academia&logoColor=white)
 
 </div>
 
@@ -19,12 +19,9 @@
 ```bash
 > Guillermo
   ├── focus      : Network Automation & Cisco Networking
-  ├── also       : Full Stack Dev (MERN + Java)
-  ├── university : Ciencias de la Computación
+  ├── also       : Full Stack Dev (MERN + Java) · Data Science path
+  ├── university : Ciencias de la Computación @ UBA (CBC)
   ├── location   : Buenos Aires, Argentina 🇦🇷
-  ├── studying   : Python · Redes Cisco (CCNA path)
-  │                Pensamiento Computacional (Data Science path)
-  │                Álgebra & Cálculo
   ├── status     : "Learning every day, building every night."
   └── approach   : entender primero, copiar nunca.
 ```
@@ -51,6 +48,7 @@ roadmap = {
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Netmiko](https://img.shields.io/badge/Netmiko-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco_IOS-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -58,6 +56,7 @@ roadmap = {
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
@@ -72,7 +71,7 @@ stack/
 ├── backend/    → Node.js, Express.js, Java, Spring Boot,
 │                 GraphQL, REST APIs
 ├── databases/  → MongoDB, MySQL, PostgreSQL, Redis
-└── devops/     → Docker, GitHub Actions, Nginx
+└── devops/     → Docker, GitHub Actions, Nginx, AWS, Kubernetes
 ```
 
 **Frontend**
@@ -120,6 +119,7 @@ stack/
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 </div>
 
@@ -127,14 +127,14 @@ stack/
 
 ## 📊 Data Science path
 
-A través de la materia **Pensamiento Computacional** en la UBA, estoy dando mis primeros pasos hacia el análisis de datos — usando Python como puente entre la lógica de programación y el mundo de los datos.
+A través de la materia **Pensamiento Computacional** en la UBA, dando los primeros pasos hacia el análisis de datos — usando Python como puente entre la lógica de programación y el mundo de los datos.
 
 ```python
 data_tools = {
-    "language" : "Python 🐍",
-    "libraries": ["Pandas", "NumPy", "Matplotlib"],
-    "path"     : "Data Science / Data Analyst",
-    "status"   : "early stages — building foundations"
+    "language"  : "Python 🐍",
+    "libraries" : ["Pandas", "NumPy", "Matplotlib"],
+    "path"      : "Data Science / Data Analyst",
+    "status"    : "early stages — building foundations"
 }
 ```
 
@@ -144,20 +144,19 @@ data_tools = {
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-
 </div>
 
 ---
 
-## 🎓 Computer Science
+## 🎓 Computer Science @UBA
 
-Estudio Ciencias de la Computación en la **Universidad de Buenos Aires** — no porque sea el camino más corto, sino porque quiero entender las cosas desde los fundamentos. Algoritmos, estructuras de datos, matemática discreta, Álgebra, Cálculo. La base que hace que todo lo demás tenga sentido.
+Estudio Ciencias de la Computación en la **Universidad de Buenos Aires** — no porque sea el camino más corto, sino porque quiero entender las cosas desde los fundamentos. Algoritmos, estructuras de datos, matemática discreta, álgebra, cálculo. La base que hace que todo lo demás tenga sentido.
 
 ```bash
 > por qué CS?
   ├── porque quiero entender, no solo usar.
   ├── porque un buen ingeniero sabe lo que pasa debajo del código.
-  └── porque e^(iπ) + 1 = 0  →  y eso no puede ser casualidad.
+  └── El universo funciona con matemáticas, y me intriga.
 ```
 
 ---
