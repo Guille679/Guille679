@@ -1,16 +1,16 @@
 <div align="center">
 
 <!-- Banner personalizado -->
-[![banner](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=200&section=header&text=Guillermo&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Dev%20%7C%20Data%20Foundations%20%7C%20CS%20%40%20UBA&descAlignY=58&descSize=16&descColor=8b949e)](https://github.com/Guille679)
+[![banner](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=200&section=header&text=Guillermo&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Dev%20%7C%20Data%20Foundations%20%7C%20CS%20Student&descAlignY=58&descSize=16&descColor=8b949e)](https://github.com/Guille679)
 
 <!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+in+progress+%F0%9F%9A%80;MERN+Stack+%2B+Java+%7C+Spring+Boot;Data+Foundations+%7C+Python+%7C+Pandas;CS+%40+UBA+%7C+Buenos+Aires+%F0%9F%87%A6%F0%9F%87%B7;Building+things+from+the+comfort+of+home+%F0%9F%92%BB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+in+progress+%F0%9F%9A%80;MERN+Stack+%2B+Java+%7C+Spring+Boot;Data+Foundations+%7C+Python+%7C+Pandas;CS+Student+%7C+Buenos+Aires+%F0%9F%87%A6%F0%9F%87%B7;Building+things+from+the+comfort+of+home+%F0%9F%92%BB)](https://git.io/typing-svg)
 
 <br/>
 
 ![Full Stack](https://img.shields.io/badge/Full_Stack-MERN%20%2B%20Java-orange?style=for-the-badge&logo=stackshare&logoColor=white)
 ![Data](https://img.shields.io/badge/Data-Foundations-2ECC71?style=for-the-badge&logo=python&logoColor=white)
-![CS](https://img.shields.io/badge/CS-@UBA-8E44AD?style=for-the-badge&logo=academia&logoColor=white)
+![CS](https://img.shields.io/badge/CS-Student-8E44AD?style=for-the-badge&logo=academia&logoColor=white)
 ![Location](https://img.shields.io/badge/Buenos_Aires-Argentina-1BA0D7?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 </div>
@@ -19,21 +19,25 @@
 
 ## `$ whoami`
 
-<img align="right" width="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif"/>
+<div align="center">
+<img width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif"/>
+</div>
+
+<br/>
 
 Soy Guillermo, tengo 21 años y soy de **Buenos Aires, Argentina**. La tecnología es una pasión que tengo desde los 10 años — desde ese entonces algo en mí siempre quiso entender cómo funcionan las cosas por adentro y, más importante, **cómo crear cosas nuevas**.
 
 Me encanta la idea de poder construir desde cero, sentado en la comodidad de mi silla, proyectos que resuelvan problemas reales. Esa combinación de lógica, creatividad y autonomía es lo que me engancha del desarrollo.
 
-Hoy estoy estudiando **Ciencias de la Computación en la UBA**, aprendiendo **Full Stack** con MERN y Java, y dando mis primeros pasos en el mundo de los datos. El objetivo a largo plazo es claro: aportar mis conocimientos a una empresa o comunidad, y seguir creciendo rodeado de gente que comparte la misma pasión.
+Hoy estoy estudiando **Ciencias de la Computación**, aprendiendo **Full Stack** con MERN y Java, y dando mis primeros pasos en el mundo de los datos. El objetivo a largo plazo es claro: aportar mis conocimientos a una empresa o comunidad, y seguir creciendo rodeado de gente que comparte la misma pasión.
 
 ```bash
 > Guillermo
   ├── age        : 21
   ├── focus      : Full Stack Dev (MERN + Java) · Data Foundations
-  ├── university : Ciencias de la Computación @UBA
+  ├── university : Ciencias de la Computación
   ├── location   : Buenos Aires, Argentina 🇦🇷
-  ├── passion    : crear cosas desde los 10 años 💻
+  ├── passion    : breaking things to understand them 🔧
   ├── goal       : aportar a empresas y comunidades tech
   ├── status     : "Learning every day, building every night."
   └── approach   : entender primero, copiar nunca.
@@ -43,7 +47,11 @@ Hoy estoy estudiando **Ciencias de la Computación en la UBA**, aprendiendo **Fu
 
 ## 💻 Full Stack Dev
 
-<img align="right" width="160" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="dev gif"/>
+<div align="center">
+<img width="380" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="dev gif"/>
+</div>
+
+<br/>
 
 Dos frentes en paralelo — JavaScript por el lado del stack MERN, Java por el lado del backend empresarial. El objetivo es dominar ambos mundos y saber cuándo usar cada uno.
 
@@ -113,9 +121,13 @@ stack/
 
 ## 📊 Data Foundations
 
-<img align="right" width="160" src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" alt="data gif"/>
+<div align="center">
+<img width="380" src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" alt="data gif"/>
+</div>
 
-A través de la materia **Pensamiento Computacional** en la UBA, dando los primeros pasos hacia el mundo de los datos — aprendiendo a recolectar, limpiar, analizar y visualizar información con Python y las herramientas del ecosistema data.
+<br/>
+
+A través de la materia **Pensamiento Computacional**, dando los primeros pasos hacia el mundo de los datos — aprendiendo a recolectar, limpiar, analizar y visualizar información con Python y las herramientas del ecosistema data.
 
 ```python
 data_tools = {
@@ -141,9 +153,9 @@ data_tools = {
 
 ---
 
-## 🎓 Computer Science @UBA
+## 🎓 Computer Science
 
-Estudio Ciencias de la Computación en la **Universidad de Buenos Aires** — no porque sea el camino más corto, sino porque quiero entender las cosas desde los fundamentos. Algoritmos, estructuras de datos, matemática discreta, álgebra, cálculo. La base que hace que todo lo demás tenga sentido.
+Estudio Ciencias de la Computación — no porque sea el camino más corto, sino porque quiero entender las cosas desde los fundamentos. Algoritmos, estructuras de datos, matemática discreta, álgebra, cálculo. La base que hace que todo lo demás tenga sentido.
 
 ```bash
 > por qué CS?
