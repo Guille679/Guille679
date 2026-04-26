@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner personalizado -->
-[![banner](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=200&section=header&text=Guillermo&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Dev%20%7C%20Data%20Foundations%20%7C%20CS%20Student&descAlignY=58&descSize=16&descColor=8b949e)](https://github.com/Guille679)
+[![banner](https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1f6feb,100:58a6ff&height=200&section=header&text=Guillermo&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Dev%20%7C%20Data%20Foundations%20%7C%20CS%20Student&descAlignY=58&descSize=16&descColor=8b949e)](https://github.com/Guille679)
 
 <!-- Typing animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+in+progress+%F0%9F%9A%80;MERN+Stack+%2B+Java+%7C+Spring+Boot;Data+Foundations+%7C+Python+%7C+Pandas;CS+Student+%7C+Buenos+Aires+%F0%9F%87%A6%F0%9F%87%B7;Building+things+from+the+comfort+of+home+%F0%9F%92%BB)](https://git.io/typing-svg)
@@ -20,12 +20,12 @@
 ## `$ whoami`
 
 <div align="center">
-<img width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif"/>
+<img width="380" src="https://media.giphy.com/media/awGA2x8j6BlgSAOG5e/giphy.gif" alt="coding gif"/>
 </div>
 
 <br/>
 
-Soy Guillermo, tengo 21 años y soy de **Buenos Aires, Argentina**. La tecnología es una pasión que tengo desde los 10 años — desde ese entonces algo en mí siempre quiso entender cómo funcionan las cosas por adentro y, más importante, **cómo crear cosas nuevas**.
+La tecnología es una pasión que tengo desde los 10 años — desde ese entonces algo en mí siempre quiso entender cómo funcionan las cosas por adentro y, más importante, **cómo crear cosas nuevas**.
 
 Me encanta la idea de poder construir desde cero, sentado en la comodidad de mi silla, proyectos que resuelvan problemas reales. Esa combinación de lógica, creatividad y autonomía es lo que me engancha del desarrollo.
 
@@ -48,7 +48,7 @@ Hoy estoy estudiando **Ciencias de la Computación**, aprendiendo **Full Stack**
 ## 💻 Full Stack Dev
 
 <div align="center">
-<img width="380" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="dev gif"/>
+  <img src="https://media.giphy.com/media/UFGj6EYw5JhMQ/giphy.gif" />
 </div>
 
 <br/>
@@ -122,7 +122,7 @@ stack/
 ## 📊 Data Foundations
 
 <div align="center">
-<img width="380" src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" alt="data gif"/>
+  <img src="https://i.giphy.com/11Lz1Y4n1f2j96.gif" />
 </div>
 
 <br/>
@@ -206,11 +206,13 @@ Estudio Ciencias de la Computación — no porque sea el camino más corto, sino
 
 ---
 
-<!-- Footer wave -->
-[![footer](https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0d1117&height=120&section=footer)](https://github.com/Guille679)
-
 <div align="center">
 
 *"An infrastructure that runs itself is the goal. Getting there is the journey."*
 
 </div>
+
+<div align="center">
+  <img src="https://i.giphy.com/IL4iTvQH0MjS.gif" />
+</div>
+
