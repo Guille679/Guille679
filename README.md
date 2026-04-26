@@ -1,14 +1,17 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Guillermo+%7C+Network+%26+Dev+Enthusiast;Network+Automation+with+Python+%F0%9F%90%8D;Cisco+Networking+%7C+CCNA+path;Full+Stack+Dev+in+progress;CS+%40+UBA+%7C+Buenos+Aires+%F0%9F%87%A6%F0%9F%87%B7)](https://git.io/typing-svg)
+<!-- Banner personalizado -->
+[![banner](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=200&section=header&text=Guillermo&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Dev%20%7C%20Data%20Foundations%20%7C%20CS%20%40%20UBA&descAlignY=58&descSize=16&descColor=8b949e)](https://github.com/Guille679)
+
+<!-- Typing animation -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+in+progress+%F0%9F%9A%80;MERN+Stack+%2B+Java+%7C+Spring+Boot;Data+Foundations+%7C+Python+%7C+Pandas;CS+%40+UBA+%7C+Buenos+Aires+%F0%9F%87%A6%F0%9F%87%B7;Building+things+from+the+comfort+of+home+%F0%9F%92%BB)](https://git.io/typing-svg)
 
 <br/>
 
-![Network Automation](https://img.shields.io/badge/Network_Automation-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco-Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![Full Stack](https://img.shields.io/badge/Full_Stack-MERN%20%2B%20Java-orange?style=for-the-badge&logo=stackshare&logoColor=white)
 ![Data](https://img.shields.io/badge/Data-Foundations-2ECC71?style=for-the-badge&logo=python&logoColor=white)
 ![CS](https://img.shields.io/badge/CS-@UBA-8E44AD?style=for-the-badge&logo=academia&logoColor=white)
+![Location](https://img.shields.io/badge/Buenos_Aires-Argentina-1BA0D7?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 </div>
 
@@ -16,53 +19,31 @@
 
 ## `$ whoami`
 
+<img align="right" width="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif"/>
+
+Soy Guillermo, tengo 21 años y soy de **Buenos Aires, Argentina**. La tecnología es una pasión que tengo desde los 10 años — desde ese entonces algo en mí siempre quiso entender cómo funcionan las cosas por adentro y, más importante, **cómo crear cosas nuevas**.
+
+Me encanta la idea de poder construir desde cero, sentado en la comodidad de mi silla, proyectos que resuelvan problemas reales. Esa combinación de lógica, creatividad y autonomía es lo que me engancha del desarrollo.
+
+Hoy estoy estudiando **Ciencias de la Computación en la UBA**, aprendiendo **Full Stack** con MERN y Java, y dando mis primeros pasos en el mundo de los datos. El objetivo a largo plazo es claro: aportar mis conocimientos a una empresa o comunidad, y seguir creciendo rodeado de gente que comparte la misma pasión.
+
 ```bash
 > Guillermo
-  ├── focus      : Network Automation & Cisco Networking
-  ├── also       : Full Stack Dev (MERN + Java) · Data Foundations
+  ├── age        : 21
+  ├── focus      : Full Stack Dev (MERN + Java) · Data Foundations
   ├── university : Ciencias de la Computación @UBA
   ├── location   : Buenos Aires, Argentina 🇦🇷
+  ├── passion    : crear cosas desde los 10 años 💻
+  ├── goal       : aportar a empresas y comunidades tech
   ├── status     : "Learning every day, building every night."
   └── approach   : entender primero, copiar nunca.
 ```
 
 ---
 
-## 🌐 Networking & Automation
-
-Lo que más me apasiona actualmente — automatizar redes, trabajar con dispositivos Cisco y entender la infraestructura que hace funcionar todo lo demás.
-
-```python
-roadmap = {
-    "language"   : "Python 🐍",
-    "automation" : ["Netmiko", "Paramiko", "NAPALM", "Nornir", "Ansible"],
-    "vendors"    : ["Cisco IOS", "Cisco IOS-XE", "Cisco NX-OS"],
-    "protocols"  : ["SSH", "Telnet", "SNMP", "RESTCONF", "NETCONF"],
-    "topics"     : ["CCNA", "VLANs", "Routing", "Switching",
-                    "ACLs", "OSPF", "STP"],
-    "monitoring" : ["Prometheus", "Grafana", "Zabbix"],
-    "cloud_net"  : ["AWS VPC"]
-}
-```
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Netmiko](https://img.shields.io/badge/Netmiko-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco_IOS-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-</div>
-
----
-
 ## 💻 Full Stack Dev
+
+<img align="right" width="160" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="dev gif"/>
 
 Dos frentes en paralelo — JavaScript por el lado del stack MERN, Java por el lado del backend empresarial. El objetivo es dominar ambos mundos y saber cuándo usar cada uno.
 
@@ -132,6 +113,8 @@ stack/
 
 ## 📊 Data Foundations
 
+<img align="right" width="160" src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" alt="data gif"/>
+
 A través de la materia **Pensamiento Computacional** en la UBA, dando los primeros pasos hacia el mundo de los datos — aprendiendo a recolectar, limpiar, analizar y visualizar información con Python y las herramientas del ecosistema data.
 
 ```python
@@ -178,8 +161,8 @@ Estudio Ciencias de la Computación en la **Universidad de Buenos Aires** — no
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Packet Tracer](https://img.shields.io/badge/Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 </div>
 
@@ -210,6 +193,9 @@ Estudio Ciencias de la Computación en la **Universidad de Buenos Aires** — no
 </div>
 
 ---
+
+<!-- Footer wave -->
+[![footer](https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0d1117&height=120&section=footer)](https://github.com/Guille679)
 
 <div align="center">
 
