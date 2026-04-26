@@ -155,6 +155,12 @@ data_tools = {
 
 ## 🎓 Computer Science
 
+<div align="center">
+  <img src="https://i.giphy.com/BmmfETghGOPrW.gif" />
+</div>
+
+<br/>
+
 Estudio Ciencias de la Computación — no porque sea el camino más corto, sino porque quiero entender las cosas desde los fundamentos. Algoritmos, estructuras de datos, matemática discreta, álgebra, cálculo. La base que hace que todo lo demás tenga sentido.
 
 ```bash
