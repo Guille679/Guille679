@@ -29,7 +29,7 @@ La tecnología es una pasión que tengo desde los 10 años — desde ese entonce
 
 Me encanta la idea de poder construir desde cero, sentado en la comodidad de mi silla, proyectos que resuelvan problemas reales. Esa combinación de lógica, creatividad y autonomía es lo que me engancha del desarrollo.
 
-Hoy estoy estudiando **Ciencias de la Computación**, aprendiendo **Full Stack** con MERN y Java, y dando mis primeros pasos en el mundo de los datos. El objetivo a largo plazo es claro: aportar mis conocimientos a una empresa o comunidad, y seguir creciendo rodeado de gente que comparte la misma pasión.
+Hoy estoy estudiando **Ciencias de la Computación**, aprendiendo **Full Stack** con MERN y **Java**, y dando mis primeros pasos en el mundo de los datos con **Python**. El objetivo a largo plazo es claro: aportar mis conocimientos a una empresa o comunidad, y seguir creciendo rodeado de gente que comparte la misma pasión.
 
 ```bash
 > Guillermo
