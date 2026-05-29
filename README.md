@@ -206,7 +206,7 @@ Estudio Ciencias de la Computación — no porque sea el camino más corto, sino
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kreatostudio71@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:)
 
 </div>
 
