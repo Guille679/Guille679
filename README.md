@@ -4,7 +4,7 @@
 
 <br/>
 
-![Full Stack](https://img.shields.io/badge/Full_Stack-MERN-orange?style=flat-square&logo=stackshare&logoColor=white)
+![Full Stack](https://img.shields.io/badge/Full_Stack-Developer-orange?style=flat-square&logo=stackshare&logoColor=white)
 ![Data](https://img.shields.io/badge/Data-Professional-2ECC71?style=flat-square&logo=python&logoColor=white)
 ![CS](https://img.shields.io/badge/CS-Student-8E44AD?style=flat-square&logo=academia&logoColor=white)
 ![Location](https://img.shields.io/badge/Buenos_Aires-Argentina-1BA0D7?style=flat-square&logo=googlemaps&logoColor=white)
